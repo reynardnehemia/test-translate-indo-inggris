@@ -1,0 +1,5 @@
+{
+  "name": "Indonesian-English Translator",
+  "description": "A sleek and efficient web application for translating text between Indonesian and English using the power of the Gemini API.",
+  "requestFramePermissions": []
+}
